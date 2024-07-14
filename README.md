@@ -5,8 +5,8 @@
 * The purpose of this exercise to take the sample dataset and create a model that can be used to determine whether a loan application would results in either a "healthy loan" or a "high risk loan". A lender would seek to only approve the former and avoid the latter as they may result in a financial loss to the business. 
 * The dataset includes information on 77,536 loans that were determined in the end to be either healthy or high risk.
 * Data collected on each loan includes: loan size, interest rate, borrower income, debt to income, number of accounts, derogatory marks and total debt.
-* Within the code the dataset is divided, randomly, into training and testing sets. 75% of the loans were used to first create or train the model and the remaining 25% were used to test how well the model performed.
-* Because there are only 2 possible outcomes the methodology used within the model is a logistic regression (binary classification).
+* Within the code, the dataset is divided into training and testing sets. 75% of the loans were used to first create or train the model and the remaining 25% were used to test how well the model performed.
+* Because there are only 2 possible outcomes, the methodology used within the model is a logistic regression (binary classification).
 * Results are analyzed using a generated classification report and confusion matrix.
 
 ## Results
